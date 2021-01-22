@@ -2,6 +2,6 @@ This project is a Movie Database
 
 ## You have access to all the movies from the omdb API
 
-**authentication offers no more advantages than not being**
+<strong>being registered offers no more advantages than not being registered</strong>
 
 [Link here](https://lm-moviedb.netlify.app/)
